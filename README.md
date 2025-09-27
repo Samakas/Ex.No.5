@@ -1,5 +1,3 @@
-
-
 # EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
@@ -33,6 +31,49 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+# OUTPUT:
+### Scenarios and Prompts:
+<img width="1016" height="617" alt="image" src="https://github.com/user-attachments/assets/855b10ec-242f-4a72-be99-c8368bf55054" />
 
-# RESULT: The prompt for the above said problem executed successfully
+### Experiment Results:
+<img width="989" height="561" alt="image" src="https://github.com/user-attachments/assets/8b991f00-899b-48ff-9d85-0db5ec666bca" />
+
+### Evaluation:
+#### Quality:
+
+Naïve prompts → generic, sometimes too brief or unfocused.
+
+Basic prompts → more structured, detailed, and relevant.
+
+#### Accuracy:
+
+Naïve prompts sometimes oversimplify (e.g., photosynthesis).
+
+Basic prompts yield accurate and contextually appropriate explanations.
+
+#### Depth:
+
+Naïve prompts → shallow, often just definitions.
+
+Basic prompts → tailored depth (e.g., child-friendly explanation, structured story, actionable tips).
+### Key Insights:
+#### Prompt clarity significantly improves response quality.
+Structured prompts consistently produce better depth, accuracy, and organization.
+
+#### Scenarios where naïve prompts perform equally well:
+
+Very simple factual definitions (e.g., "Explain gravity") still yield reasonable results.
+
+But structured prompts make them more engaging and audience-specific.
+
+#### Best practices for prompting:
+
+Be clear about the task and expected format.
+
+Provide context (audience, length, style).
+
+Define constraints (e.g., word count, bullet points, examples).
+
+
+# RESULT: 
+The prompt for the above said problem executed successfully
